@@ -1,0 +1,15 @@
+C:\Users\Jason\Desktop\assignment3\APLC-Assignment-3\c#-code\src\obj\Debug\net9.0\src.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jason\Desktop\assignment3\APLC-Assignment-3\c#-code\src\obj\Debug\net9.0\src.AssemblyInfoInputs.cache
+C:\Users\Jason\Desktop\assignment3\APLC-Assignment-3\c#-code\src\obj\Debug\net9.0\src.AssemblyInfo.cs
+C:\Users\Jason\Desktop\assignment3\APLC-Assignment-3\c#-code\src\obj\Debug\net9.0\src.csproj.CoreCompileInputs.cache
+C:\Users\Jason\Desktop\assignment3\APLC-Assignment-3\c#-code\src\obj\Debug\net9.0\src.sourcelink.json
+C:\Users\Jason\Desktop\assignment3\APLC-Assignment-3\c#-code\src\bin\Debug\net9.0\src.exe
+C:\Users\Jason\Desktop\assignment3\APLC-Assignment-3\c#-code\src\bin\Debug\net9.0\src.deps.json
+C:\Users\Jason\Desktop\assignment3\APLC-Assignment-3\c#-code\src\bin\Debug\net9.0\src.runtimeconfig.json
+C:\Users\Jason\Desktop\assignment3\APLC-Assignment-3\c#-code\src\bin\Debug\net9.0\src.dll
+C:\Users\Jason\Desktop\assignment3\APLC-Assignment-3\c#-code\src\bin\Debug\net9.0\src.pdb
+C:\Users\Jason\Desktop\assignment3\APLC-Assignment-3\c#-code\src\obj\Debug\net9.0\src.dll
+C:\Users\Jason\Desktop\assignment3\APLC-Assignment-3\c#-code\src\obj\Debug\net9.0\refint\src.dll
+C:\Users\Jason\Desktop\assignment3\APLC-Assignment-3\c#-code\src\obj\Debug\net9.0\src.pdb
+C:\Users\Jason\Desktop\assignment3\APLC-Assignment-3\c#-code\src\obj\Debug\net9.0\src.genruntimeconfig.cache
+C:\Users\Jason\Desktop\assignment3\APLC-Assignment-3\c#-code\src\obj\Debug\net9.0\ref\src.dll
